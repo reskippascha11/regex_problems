@@ -2,6 +2,8 @@
 # Upper Case Words #
 ####################
 
+# Adding this comment line as the only change to the project
+
 library(tidyverse)
 
 # Part 1
